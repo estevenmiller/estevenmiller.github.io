@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Miller;E. Steven;;;
+FN:E. Steven Miller
+ORG:Geek On Demand
+ADR;TYPE=WORK:
+TITLE:Principal
+TEL;TYPE=CELL:(707)407-7005
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:estevenmiller@proton.me
+URL;TYPE=Digital Business Card:https://geekondemand.net/vcard/estevenmiller
+URL:https://geekondemand.com
+URL;TYPE=Website:https://geekondemand.com
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100859633
+END:VCARD
